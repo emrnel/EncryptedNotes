@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyd
+.env
+*.sqlite3
+instance/
+.venv/
+venv/
+env/
+ENV/
+note.txt  # To exclude the note file if it contains sensitive information

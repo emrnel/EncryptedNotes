@@ -67,7 +67,7 @@ def decrypt_file():
 # Create the main window
 window = tk.Tk()
 window.config(padx=5, pady=5)
-window.title("Image in Tkinter")
+window.title("Encrypted Notes")
 window.geometry("300x500")
 
 # Load the image
